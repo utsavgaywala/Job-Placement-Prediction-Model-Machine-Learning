@@ -6,4 +6,4 @@ venv/
 env/
 .ipynb_checkpoints/
 data/
-placement.pkl
+
